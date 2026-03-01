@@ -1,14 +1,14 @@
-# 🐟 That's My Fish! (Python Multiplayer Game)
+#  That's My Fish! (Python Multiplayer Game)
 
 Welcome to **That's My Fish!**, a digital adaptation of the classic board game *Hey, That's My Fish!*. Built using Python, this project features a hexagonal grid board, a fully functional multiplayer client-server architecture, and an intelligent Minimax-based AI.
 
 ---
 
-## 📸 Overview
+## Overview
 
 In this game, players control a waddle of penguins searching for the tastiest fish on a shrinking ice floe. The goal is to collect the most fish before the ice completely melts away!
 
-### ✨ Key Features
+### Key Features
 - **Interactive Hexagonal Grid**: Beautifully rendered using the `arcade` library.
 - **Client-Server Architecture**: True networked multiplayer using TCP sockets.
 - **Game Modes**: 
@@ -19,7 +19,7 @@ In this game, players control a waddle of penguins searching for the tastiest fi
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 - **Language**: Python 3.x
 - **GUI Framework**: `arcade`
 - **Networking**: Built-in Python `socket` & `threading`
@@ -27,7 +27,7 @@ In this game, players control a waddle of penguins searching for the tastiest fi
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -57,7 +57,7 @@ pip install arcade
 
 ---
 
-## 📜 How to Play
+##  How to Play
 
 ### 1. Placement Phase
 - At the start of the game, players take turns placing their penguins on any hex tile that contains **exactly 1 fish** and is not currently occupied.
@@ -75,10 +75,10 @@ pip install arcade
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Feel free to fork this project, submit pull requests, or send suggestions. Whether it's enhancing the AI, creating new board layouts, or polishing the UI, contributions are always welcome!
 
 ---
 
-Enjoy your ice fishing! 🐧🐟
+Enjoy your ice fishing!
