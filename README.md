@@ -12,8 +12,8 @@ In this game, players control a waddle of penguins searching for the tastiest fi
 - **Interactive Hexagonal Grid**: Beautifully rendered using the `arcade` library.
 - **Client-Server Architecture**: True networked multiplayer using TCP sockets.
 - **Game Modes**: 
-  - 🧍‍♂️ Local/Networked Multiplayer (Human vs Human)
-  - 🤖 Single Player against AI (Human vs AI)
+  -  Local/Networked Multiplayer (Human vs Human)
+  -  Single Player against AI (Human vs AI)
 - **Intelligent AI**: Built-in Minimax algorithm with $\alpha-\beta$ pruning to challenge your fish-hunting skills!
 - **Dynamic Board State**: The board shrinks dynamically as tiles are claimed, increasing the strategic depth of every move!
 
